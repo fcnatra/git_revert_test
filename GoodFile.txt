@@ -1,5 +1,4 @@
-﻿My File - This is what was you expecting
--- introducing a bug just in here -- funny kid, aha?
+My File - This is what was you expecting
 ...a clean, tested and beautiful code
 
 
