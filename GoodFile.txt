@@ -1,4 +1,4 @@
-My File - This is what was you expecting
+﻿My File - This is what was you expecting
 ...a clean, tested and beautiful code
-
-If you see this change, it means that everything went OK
+This is another beautiful change that must be included as part of contributions master.
+If you see this change, it means that everything went OK.
